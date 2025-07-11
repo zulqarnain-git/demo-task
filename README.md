@@ -19,7 +19,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/zulqarnain-git/western-web-task.git
+git clone https://github.com/zulqarnain-git/demo-task
 
 # Navigate to project directory
 cd western-web-task
